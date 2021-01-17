@@ -1,7 +1,10 @@
 # Client
 
-## Client Cycle
+### Client Cycle
+<p align="center">
+  <img src="./ClientCycle.png" width="75%" height="75%"/>
+</p>
 
-## GUI
+### GUI
 
-## Component Hierarchy
+### Component Hierarchy
