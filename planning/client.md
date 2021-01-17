@@ -22,6 +22,10 @@ Diagram of the relationship between various components in the GUI.
   <img src="./ClientCycle.png" width="75%" height="75%"/>
 </p>
 
+#### Phases
+
+#### User Intervention
+
 ### Technologies <a name="tech"></a>
 Technologies used (ex. Deployment, Framework, packages...)
 
